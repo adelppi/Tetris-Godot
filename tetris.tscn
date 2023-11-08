@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://bro4tlvpqe2kg"]
+
+[node name="game" type="Node2D"]
+
+[node name="wall" type="Sprite2D" parent="."]
+
+[node name="piece_block" type="Sprite2D" parent="."]
+
+[node name="piece_line" type="Sprite2D" parent="."]
+
+[node name="sensor" type="Sprite2D" parent="."]
